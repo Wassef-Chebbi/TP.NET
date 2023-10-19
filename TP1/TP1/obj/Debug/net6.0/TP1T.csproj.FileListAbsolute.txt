@@ -1,0 +1,15 @@
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/bin/Debug/net6.0/TP1T
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/bin/Debug/net6.0/TP1T.deps.json
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/bin/Debug/net6.0/TP1T.runtimeconfig.json
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/bin/Debug/net6.0/TP1T.dll
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/bin/Debug/net6.0/TP1T.pdb
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.csproj.AssemblyReference.cache
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.AssemblyInfoInputs.cache
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.AssemblyInfo.cs
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.csproj.CoreCompileInputs.cache
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.dll
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/refint/TP1T.dll
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.pdb
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/TP1T.genruntimeconfig.cache
+/Users/wassef/Desktop/TP.NET/TP1T/TP1T/obj/Debug/net6.0/ref/TP1T.dll
